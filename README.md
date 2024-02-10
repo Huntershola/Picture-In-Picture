@@ -22,7 +22,7 @@ The Picture-in-Picture Project is a web application that allows users to capture
 
 ## Installation
 
-Clone the repository:
+Clone the repository:  https://github.com/Huntershola/Picture-In-Picture.git
 
 
 Open `index.html` in a web browser to launch the application.
